@@ -47,4 +47,3 @@ Open the `Portfolio Overview` tab first, followed by the principal calculation t
 
 These are educational actuarial models. They are not intended for production pricing, reserving, or financial reporting.
 
-
