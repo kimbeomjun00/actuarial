@@ -23,7 +23,3 @@ Project insurance liabilities and profit on a market-value basis, apply scenario
 
 ![Model preview](images/model-preview.jpg)
 
-## Limitations
-
-Risk adjustment is set to zero in this educational case. The workbook is not an implementation of a complete accounting or regulatory reporting framework.
-

@@ -24,7 +24,3 @@ Project insurance profit under cost-price and best-estimate assumptions and expl
 
 ![Model preview](images/model-preview.jpg)
 
-## Limitations
-
-Scenario assumptions are illustrative. The workbook does not include stochastic simulation, parameter calibration, or production-level model governance.
-

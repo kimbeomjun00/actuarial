@@ -24,7 +24,3 @@ Model a combined deferred life annuity and decreasing term life insurance contra
 
 ![Model preview](images/model-preview.jpg)
 
-## Limitations
-
-The workbook is an educational model and does not include production governance, experience studies, regulatory reporting, or a full assumption-setting process.
-
